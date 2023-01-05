@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "empoyee-information-database",
+  "description": "Database to add and edit employees and there discription's",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreBlankholm/Empoyee-Information-Database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreBlankholm/Empoyee-Information-Database/issues"
+  },
+  "homepage": "https://github.com/AndreBlankholm/Empoyee-Information-Database#readme"
+}
